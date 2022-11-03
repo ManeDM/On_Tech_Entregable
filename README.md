@@ -1,0 +1,1 @@
+Fue un proceso bastante duro, no espere que el CSS fuera a generar tantos bloqueos, pero al final lo logré, no es el codigo mas limpio para visualmente cumple con lo requerido, mi mayor herramiento fue el uso de paddigns para alinear los deferentes elementos, noto carencias en flexbox por lo cual se que es una habilidad que tengo que pulir mas, me parece un excelente ejericio.

@@ -1,0 +1,42 @@
+.head {
+    display: flex; 
+    width: 100%;
+    background-color: #000000;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: flex-end;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+        
+}
+
+
+.head__logo {
+    height: 110px;
+    width: 110px;
+        
+     }
+
+.head__navegacion {
+    
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+
+.head__enlace {
+    font-size: 1.1rem;
+    color: #cc3642;   
+    display: inline-block;
+    margin-right: .7rem;
+    margin-bottom: .7rem;
+    margin-left: .7rem;
+}

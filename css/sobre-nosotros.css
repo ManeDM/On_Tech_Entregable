@@ -1,0 +1,72 @@
+.sobre_nosotros{
+    margin: 26rem 1rem 1rem 1rem;
+}
+
+.sobre_nosotros__texto {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #4F4C4C;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    justify-content: left;
+}
+
+.p_uno{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 2rem;
+    column-gap: 40px;
+    justify-content: left;
+    margin-top: 0.5rem;
+   }
+
+
+
+
+.p_dos{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4F4C4C;
+    margin-bottom: 2rem;
+    justify-content:left;
+    
+
+}
+
+.img_andorid{
+    margin: 2rem 2.5rem 2.5rem 2rem;
+
+}
+
+.img_blackberry{
+    margin: 2rem 2.5rem 2.5rem 2rem;
+}
+
+.img_apple{
+    margin: 2rem 2.5rem 2.5rem 2rem;
+}
+
+.img_windows{
+    margin: 2rem 2.5rem 2.5rem 4rem;
+}
+
+.sobre-nosotros-reunion{
+    margin: 1rem 1rem 1rem 50rem;
+    position: absolute
+    
+  
+   
+       
+    
+}
